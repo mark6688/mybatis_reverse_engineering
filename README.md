@@ -1,0 +1,2 @@
+# mybatis_reverse_engineering
+通过mybatis生成单表相关的pojo和mapping文件
